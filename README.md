@@ -27,27 +27,27 @@ Regarding my technical skills, I am proficient in backend languages such as C++,
 <div align="center"> <img 
     src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-c++-48.png?raw=true"
     alt="c++"
-    width="80"
+    width="50"
   />
    <img 
     src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-java-48.png?raw=true"
     alt="java
-    width="80"
+    width="50"
   />
    <img 
     src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-python-48.png?raw=true"
     alt="python
-    width="80"
+    width="50"
   />
    <img 
     src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-sql-48.png?raw=true"
     alt="sql"
-    width="80"
+    width="50"
   />
    <img 
     src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-mongodb-24.png?raw=true"
     alt="mongodb
-    width="80"
+    width="50"
   />
 </div>
 <p><br></br></p>
