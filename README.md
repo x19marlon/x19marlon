@@ -58,7 +58,8 @@ I have experience working with frameworks including Spring, Django, and Flask.
 ## My favorite projects
 
 ```
-* Robotic arm
+* Robotic arm using ROS
+* Scuderia Xaverian Web Page
 * Soon there will be more lol
 ```
 ![Footer](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
