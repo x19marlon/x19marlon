@@ -22,6 +22,7 @@ In my free time, I enjoy gaming, listening to music, and going to the movies.
 * I also serve as an Advanced Programming Teaching Assistant, supporting students in their learning process.
 ## 🥷Skills
 Regarding my technical skills, I am proficient in backend languages such as C++, Java, Python, MySQL, and MongoDB.
+<p><br></br></p>
 
 <div align="center"> <img 
     src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-c++-48.png?raw=true"
