@@ -47,7 +47,7 @@ Regarding my technical skills, I am proficient in backend languages such as C++,
    <img 
     src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-mongodb-24.png?raw=true"
     alt="mongodb
-    width="50"
+    width="500"
   />
 </div>
 <p><br></br></p>
