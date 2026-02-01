@@ -28,23 +28,27 @@ Regarding my technical skills, I am proficient in backend languages such as C++,
     alt="c++"
     width="50"
   />
- <img 
-    src="https://github.com/x19marlon/imagenes-jeje/blob/main/marlon%20burrito.jpeg?raw=true"
-    alt="marlonBurrito"
-    width="350"
-  /> <img 
-    src="https://github.com/x19marlon/imagenes-jeje/blob/main/marlon%20burrito.jpeg?raw=true"
-    alt="marlonBurrito"
-    width="350"
-  /> <img 
-    src="https://github.com/x19marlon/imagenes-jeje/blob/main/marlon%20burrito.jpeg?raw=true"
-    alt="marlonBurrito"
-    width="350"
-  /> <img 
-    src="https://github.com/x19marlon/imagenes-jeje/blob/main/marlon%20burrito.jpeg?raw=true"
-    alt="marlonBurrito"
-    width="350"
-  /></div>
+   <img 
+    src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-java-48.png?raw=true"
+    alt="java
+    width="50"
+  />
+   <img 
+    src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-python-48.png?raw=true"
+    alt="python
+    width="50"
+  />
+   <img 
+    src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-sql-48.png?raw=true"
+    alt="sql"
+    width="50"
+  />
+   <img 
+    src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-mongodb-24.png?raw=true"
+    alt="mongodb
+    width="50"
+  />
+</div>
 I have experience working with frameworks including Spring, Django, and Flask.
 
 
