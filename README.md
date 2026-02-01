@@ -49,6 +49,7 @@ Regarding my technical skills, I am proficient in backend languages such as C++,
     width="50"
   />
 </div>
+<p><br></br></p>
 I have experience working with frameworks including Spring, Django, and Flask.
 
 
