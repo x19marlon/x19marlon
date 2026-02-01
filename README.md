@@ -6,7 +6,7 @@ I'm a Systems Engineering student at *Pontificia Universidad Javeriana*. I enjoy
   <img 
     src="https://github.com/x19marlon/imagenes-jeje/blob/main/marlon%20burrito.jpeg?raw=true"
     alt="marlonBurrito"
-    width="350"
+    width="300"
   />
 </p>
 
