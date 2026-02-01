@@ -24,7 +24,7 @@ In my free time, I enjoy gaming, listening to music, and going to the movies.
 Regarding my technical skills, I am proficient in backend languages such as C++, Java, Python, MySQL, and MongoDB.
 
 <div> <img 
-    src="[[https://github.com/x19marlon/imagenes-jeje/blob/main/marlon%20burrito.jpeg?raw=true](https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-c%2B%2B-48.png)](https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-c%2B%2B-48.png)](https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-c%2B%2B-48.png)](https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-c++-48.png?raw=true)"
+    src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-c++-48.png?raw=true"
     alt="c++"
     width="50"
   />
