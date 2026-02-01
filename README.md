@@ -23,7 +23,7 @@ In my free time, I enjoy gaming, listening to music, and going to the movies.
 ## 🥷Skills
 Regarding my technical skills, I am proficient in backend languages such as C++, Java, Python, MySQL, and MongoDB.
 
-<div> <img 
+<div align="center"> <img 
     src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-c++-48.png?raw=true"
     alt="c++"
     width="50"
