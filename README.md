@@ -2,7 +2,14 @@
 
 I'm a Systems Engineering student at *Pontificia Universidad Javeriana*. I enjoy working on  robotics, algorithms, and problem solving.
 
-![marlonBurrito](https://github.com/x19marlon/imagenes-jeje/blob/main/marlon%20burrito.jpeg?raw=true)
+<p align="center">
+  <img 
+    src="https://github.com/x19marlon/imagenes-jeje/blob/main/marlon%20burrito.jpeg?raw=true"
+    alt="marlonBurrito"
+    width="200"
+  />
+</p>
+
 
 ## ✍️🔥 About me
 In my free time, I enjoy gaming, listening to music, and going to the movies.
