@@ -25,35 +25,26 @@ In my free time, I enjoy gaming, listening to music, and going to the movies.
 Regarding my technical skills, I am proficient in backend languages such as C++, Java, Python, MySQL, and MongoDB.
 <p><br></br></p>
 
-<div align="center"> <img 
-    src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-c++-48.png?raw=true"
-    alt="c++"
-    width="50"
-  />
-   <img 
-    src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-java-48.png?raw=true"
-    alt="java
-    width="50"
-  />
-   <img 
-    src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-python-48.png?raw=true"
-    alt="python
-    width="50"
-  />
-   <img 
-    src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-sql-48.png?raw=true"
-    alt="sql"
-    width="50"
-  />
-   <img 
-    src="https://github.com/x19marlon/imagenes-jeje/blob/main/tecnoplogias/icons8-mongodb-24.png?raw=true"
-    alt="mongodb
-    width="50"
-  />
+<div align="center">
+  <img width="48" height="48" alt="icons8-c++-48" src="https://github.com/user-attachments/assets/c40fabdc-3cf3-417f-a70f-689e8fcb2602" />
+<img width="48" height="48" alt="icons8-java-48" src="https://github.com/user-attachments/assets/53e15da9-e5db-4f51-8bad-2ddd3a223e9d" />
+
+
+<img width="48" height="48" alt="icons8-python-48" src="https://github.com/user-attachments/assets/38175877-1e28-44fc-9d6f-d127bc0701c8" />
+
+  <img width="48" height="48" alt="icons8-sql-48" src="https://github.com/user-attachments/assets/e579deef-eeb5-4ed0-af40-a732826f3f3c" />
+<img width="48" height="48" alt="icons8-mongodb-24" src="https://github.com/user-attachments/assets/ac4ff2e8-a7d1-4ebd-b03d-52e39ccf8d9f" />
+
 </div>
+
 <p><br></br></p>
 I have experience working with frameworks including Spring, Django, and Flask.
+<div align="center">
+<img width="24" height="24" alt="icons8-django-24" src="https://github.com/user-attachments/assets/e0341a80-94ec-4f1d-8268-0f17add39a68" />
 
+<img width="50" height="50" alt="icons8-flask-50" src="https://github.com/user-attachments/assets/29434d15-1203-4d47-b74e-f19366e9fa87" />
+
+</div>
 
 
 ## My favorite projects
