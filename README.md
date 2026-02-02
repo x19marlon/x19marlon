@@ -4,9 +4,10 @@ I'm a Systems Engineering student at *Pontificia Universidad Javeriana*. I enjoy
 
 <p align="center">
   <img 
-    src="https://github.com/x19marlon/imagenes-jeje/blob/main/marlon%20burrito.jpeg?raw=true"
+    src="[https://github.com/x19marlon/imagenes-jeje/blob/main/marlon%20burrito.jpeg?raw=true](https://github.com/user-attachments/assets/9893c409-9435-4412-ae21-f74d5cfcb13e)"
     alt="marlonBurrito"
     width="300"
+
   />
 </p>
 
