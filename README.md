@@ -59,7 +59,7 @@ I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicate
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Robotic Arm ROS** | A comprehensive simulation and control system for robotic arms using ROS. | C++, Python, ROS |
-| **Scuderia Xaverian** | Official web platform developed for the university's racing team. | Django, Web Technologies |
+| **Scuderia Xaverian** | Official web platform developed for the university's racing team. | Web Technologies |
 | **Upcoming...** | Always working on something new. Stay tuned! | 🚀 |
 
 ---
