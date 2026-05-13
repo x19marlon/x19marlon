@@ -4,24 +4,11 @@
   </a>
 </p>
 
-<table border="0">
-  <tr>
-    <td width="250" valign="top">
-      <img src="https://github.com/user-attachments/assets/9893c409-9435-4412-ae21-f74d5cfcb13e" alt="Marlon" width="220" />
-    </td>
-    <td valign="top">
-      <h3>🚀 About Me</h3>
-      <p>
-        I am a <b>Systems Engineering student</b> at <b>Pontificia Universidad Javeriana</b>, dedicated to exploring the realms of robotics, advanced algorithms, and software architecture. I thrive on solving complex problems and building robust systems that bridge the gap between software and the physical world.
-      </p>
-      <ul>
-        <li>🤖 <b>Core Interests:</b> Robotics (ROS), Low-level optimization, and AI.</li>
-        <li>🎓 <b>Focus:</b> Currently deep-diving into Backend systems and Distributed Architectures.</li>
-        <li>💡 <b>Philosophy:</b> I believe in writing clean, scalable, and efficient code that speaks for itself.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicated to exploring the realms of robotics, advanced algorithms, and software architecture. I thrive on solving complex problems and building robust systems that bridge the gap between software and the physical world.
+
+* 🤖 *Core Interests:* Robotics (ROS), Low-level optimization, and AI.
+* 🎓 *Focus:* Currently deep-diving into Backend systems and Distributed Architectures.
+* 💡 *Philosophy:* I believe in writing clean, scalable, and efficient code that speaks for itself.
 
 ---
 
@@ -29,11 +16,16 @@
 
 #### **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  
+
+#### **DATABASES**
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
 #### **Frameworks & Frameworks**
@@ -42,6 +34,12 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+</p>
+
+#### **Tools & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 ---
@@ -69,7 +67,7 @@
 When I'm not in front of a terminal, I enjoy:
 - 🕹️ Climbing the competitive ladder in **League of Legends** (Current Goal: Diamond 💎).
 - 🎵 Exploring new sounds in my [Spotify Playlist](https://open.spotify.com/playlist/49pabJma5C4ByKrKJGYo2g?si=3d1c444e7033444f).
-- 🎬 Staying updated with the latest in cinema (*Sinners*, *F1*, *Predator: Badlands*).
+- 🎬 Staying updated with the latest in cinema (*Sinners*, *F1*, *Predator: Badlands*). Well not that latest. 
 
 ---
 
@@ -81,6 +79,14 @@ I'm always open to collaborating on interesting projects or discussing the lates
 <a href="mailto:marlongarcia5465@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/marlonrestrepo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x19marlon&show_icons=true&locale=en&layout=compact" alt="x19marlon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x19marlon&show_icons=true&locale=en" alt="x19marlon" /></p> -->
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=x19marlon&theme=dark" alt="x19marlon" /></p>
+
+
 
 ![Footer](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
