@@ -22,7 +22,7 @@ I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicate
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-#### **DATABASES**
+#### **Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -30,7 +30,7 @@ I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicate
   </p>
 
 
-#### **Frameworks & Frameworks**
+#### **Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
