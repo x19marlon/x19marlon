@@ -88,7 +88,7 @@ I'm always open to collaborating on interesting projects or discussing the lates
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=x19marlon&theme=dark" alt="x19marlon" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact) -->
 
 ![Footer](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
