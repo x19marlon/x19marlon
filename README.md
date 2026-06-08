@@ -48,8 +48,8 @@ I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicate
 
 ### 🏆 Leadership & Impact
 
-- 🌐 **Webmaster @ RAS Chapter:** Orchestrating technical initiatives and maintaining the chapter's digital presence.
-- 🤖 **Junior 1 Category Lead @ IEEE RAS:** Mentoring students in the **ROS framework** and fundamental robotics engineering.
+- 🌐 **Chairman @ CS Chapter: ** Leader of Javeriana Computer Society chapter.
+- 👾 **Webmaster @ RAS Chapter:** Orchestrating technical initiatives and maintaining the chapter's digital presence.
 - 🏫 **Advanced Programming TA:** Empowering students by simplifying complex concepts and providing hands-on technical support.
 
 ---
