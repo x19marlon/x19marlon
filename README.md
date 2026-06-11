@@ -48,7 +48,7 @@ I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicate
 
 ### 🏆 Leadership & Impact
 
-- 🌐 **Chairman @ CS Chapter: ** Leader of Javeriana Computer Society chapter.
+- 🌐 **Chairman @ CS Chapter:** Leader of Javeriana Computer Society chapter.
 - 👾 **Webmaster @ RAS Chapter:** Orchestrating technical initiatives and maintaining the chapter's digital presence.
 - 🏫 **Advanced Programming TA:** Empowering students by simplifying complex concepts and providing hands-on technical support.
 
