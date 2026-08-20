@@ -6,15 +6,16 @@
 
 I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicated to exploring the realms of robotics, advanced algorithms, and software architecture. I thrive on solving complex problems and building robust systems that bridge the gap between software and the physical world.
 
-* 🤖 *Core Interests:* Robotics (ROS), Low-level optimization, and AI.
-* 🎓 *Focus:* Currently deep-diving into Backend systems and Distributed Architectures.
-* 💡 *Philosophy:* I believe in writing clean, scalable, and efficient code that speaks for itself.
+- 🤖 _Core Interests:_ Robotics (ROS), Low-level optimization, and AI.
+- 🎓 _Focus:_ Currently deep-diving into Backend systems and Distributed Architectures.
+- 💡 _Philosophy:_ I believe in writing clean, scalable, and efficient code that speaks for itself.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
 #### **Languages**
+
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -23,14 +24,15 @@ I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicate
 </p>
 
 #### **Databases**
+
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   </p>
 
-
 #### **Frameworks**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -39,6 +41,7 @@ I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicate
 </p>
 
 #### **Tools & DevOps**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -56,20 +59,21 @@ I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicate
 
 ### 📁 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Robotic Arm ROS** | A comprehensive simulation and control system for robotic arms using ROS. | C++, Python, ROS |
-| **Scuderia Xaverian** | Official web platform developed for the university's racing team. | Web Technologies |
-| **Upcoming...** | Always working on something new. Stay tuned! | 🚀 |
+| Project               | Description                                                               | Tech Stack       |
+| :-------------------- | :------------------------------------------------------------------------ | :--------------- |
+| **Robotic Arm ROS**   | A comprehensive simulation and control system for robotic arms using ROS. | C++, Python, ROS |
+| **Scuderia Xaverian** | Official web platform developed for the university's racing team.         | Web Technologies |
+| **Upcoming...**       | Always working on something new. Stay tuned!                              | 🚀               |
 
 ---
 
 ### 🎮 Beyond the Code
 
 When I'm not in front of a terminal, I enjoy:
+
 - 🕹️ Climbing the competitive ladder in **League of Legends** (Current Goal: Diamond 💎).
 - 🎵 Exploring new sounds in my [Spotify Playlist](https://open.spotify.com/playlist/49pabJma5C4ByKrKJGYo2g?si=3d1c444e7033444f).
-- 🎬 Staying updated with the latest in cinema (*Sinners*, *F1*, *Predator: Badlands*). Well not that latest. 
+- 🎬 Staying updated with the latest in cinema (_Sinners_, _F1_, _Predator: Badlands_). Well not that latest.
 
 ---
 
@@ -92,5 +96,4 @@ I'm always open to collaborating on interesting projects or discussing the lates
 
 ![Footer](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-
-
+esto es una prueba
