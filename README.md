@@ -1,12 +1,9 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=226BF7&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Marlon;%F0%9F%92%BB+Systems+Engineer" alt="Typing SVG" />
-  </a>
-</p>
+![Hero](https://coolreadme.xyz/api/hacker?user=x19marlon&status=Agarrando_la_pala&accent=%2300FF88)
+<!-- ![Avatar](https://coolreadme.xyz/api/avatar-card?user=x19marlon&status=BUILDING&focus=open-source&theme=dark) -->
 
-I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicated to exploring the realms of robotics, advanced algorithms, and software architecture. I thrive on solving complex problems and building robust systems that bridge the gap between software and the physical world.
+I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicated to exploring the realms of advanced algorithms, software architecture and robotics. I thrive on solving complex problems and building robust systems that bridge the gap between software and the physical world.
 
-- 🤖 _Core Interests:_ Robotics (ROS), Low-level optimization, and AI.
+- 🤖 _Core Interests:_ Low-level optimization, AI, Robotics (ROS).
 - 🎓 _Focus:_ Currently deep-diving into Backend systems and Distributed Architectures.
 - 💡 _Philosophy:_ I believe in writing clean, scalable, and efficient code that speaks for itself.
 
@@ -17,43 +14,51 @@ I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicate
 #### **Languages**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+ <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
+ 
+  
 </p>
 
 #### **Databases**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
   </p>
 
-#### **Frameworks**
+#### **Frameworks & Runtimes**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a>  
 </p>
 
 #### **Tools & DevOps**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a>  
 </p>
+
+
 
 ---
 
 ### 🏆 Leadership & Impact
 
 - 🌐 **Chairman @ CS Chapter:** Leader of Javeriana Computer Society chapter.
-- 👾 **Webmaster @ RAS Chapter:** Orchestrating technical initiatives and maintaining the chapter's digital presence.
-- 🏫 **Advanced Programming TA:** Empowering students by simplifying complex concepts and providing hands-on technical support.
+- 👾 **Vicepresident @ RAS Chapter:** Orchestrating technical initiatives and maintaining the chapter's digital presence.
+- 🏫 **SW FUNDAMENTALS TA:** Empowering students by simplifying complex concepts and providing hands-on technical support.
 
 ---
 
@@ -90,10 +95,23 @@ I'm always open to collaborating on interesting projects or discussing the lates
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x19marlon&show_icons=true&locale=en" alt="x19marlon" /></p> -->
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=x19marlon&theme=dark" alt="x19marlon" /></p>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact) -->
+
+
+
+
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=x19marlon&theme=shades-of-purple&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  </a>
+</p>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/x19marlon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="x19marlon" height="30" width="40" /></a>
+</p>
 
 ![Footer](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-esto es una prueba
