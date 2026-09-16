@@ -1,7 +1,4 @@
-![Hero](https://coolreadme.xyz/api/hacker?user=x19marlon&status=Agarrando_la_pala&accent=%2300FF88)
-<!-- ![Avatar](https://coolreadme.xyz/api/avatar-card?user=x19marlon&status=BUILDING&focus=open-source&theme=dark) -->
-
-I am a Systems Engineering student at Pontificia Universidad Javeriana, dedicated to exploring the realms of advanced algorithms, software architecture and robotics. I thrive on solving complex problems and building robust systems that bridge the gap between software and the physical world.
+![Letterboxd](https://coolreadme.xyz/api/letterboxd-card?user=x19marlon&title=Agarrando+la+pala&year=2026&director=Marlon+&review=I+am+a+Systems+Engineering+student+at+Pontificia+Universidad+Javeriana%2C+dedicated+to+exploring+the+realms+of+advanced+algorithms%2C+software+a&img=https%3A%2F%2Fgithub.com%2Fx19marlon)
 
 - 🤖 _Core Interests:_ Low-level optimization, AI, Robotics (ROS).
 - 🎓 _Focus:_ Currently deep-diving into Backend systems and Distributed Architectures.
@@ -115,3 +112,19 @@ I'm always open to collaborating on interesting projects or discussing the lates
 </p>
 
 ![Footer](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
