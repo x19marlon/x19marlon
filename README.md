@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:C77DFF&height=190&section=header&text=Marlon%20Restrepo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineering%20%E2%80%A2%20Robotics%20%E2%80%A2%20Backend%20%E2%80%A2%20Distributed%20Systems&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:DC2626,100:EF4444&height=190&section=header&text=Marlon%20Restrepo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineering%20%E2%80%A2%20Robotics%20%E2%80%A2%20Backend%20%E2%80%A2%20Distributed%20Systems&descAlignY=58&descSize=16"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Systems+Engineering+Student+%F0%9F%92%BB;Building+things+with+ROS+%F0%9F%A4%96;Exploring+Distributed+Systems+%F0%9F%8C%90;Backend+%E2%80%A2+Cloud+%E2%80%A2+DevOps+%E2%98%81%EF%B8%8F;Probably+debugging+something+right+now..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=650&lines=Systems+Engineering+Student+%F0%9F%92%BB;Building+things+with+ROS+%F0%9F%A4%96;Exploring+Distributed+Systems+%F0%9F%8C%90;Backend+%E2%80%A2+Cloud+%E2%80%A2+DevOps+%E2%98%81%EF%B8%8F;Probably+debugging+something+right+now..." alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=x19marlon&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=x19marlon&label=PROFILE+VIEWS&color=DC2626&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -18,6 +18,7 @@
 
 <table>
 <tr>
+
 <td width="55%">
 
 ### `whoami`
@@ -41,6 +42,7 @@
 <img src="https://coolreadme.xyz/api/letterboxd-card?user=x19marlon&title=Agarrando+la+pala&year=2026&director=Marlon&review=Systems+Engineering+student+exploring+algorithms%2C+robotics%2C+distributed+systems+and+software+engineering.&img=https%3A%2F%2Fgithub.com%2Fx19marlon.png" alt="Marlon Card"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -98,25 +100,19 @@
 
 ## 📊 GitHub Analytics
 
-
-
-<br>
-
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=x19marlon&theme=shades-of-purple&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=x19marlon&hide_border=true&background=0D1117&ring=DC2626&fire=EF4444&currStreakLabel=EF4444&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
 </a>
 
 </div>
-
-
 
 ---
 
 ## 🎮 Beyond the Code
 
-```text
+```text id="uo8d5s"
 🎮 League of Legends   → Current mission: Diamond 💎
 🎧 Music               → Constantly looking for new sounds
 🎬 Cinema              → Movies, movies and more movies
@@ -142,13 +138,17 @@ I'm always open to talking about **software, robotics, distributed systems, tech
 <br><br>
 
 <a href="mailto:marlongarcia5465@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://www.linkedin.com/in/marlonrestrepo/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://github.com/x19marlon">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -159,4 +159,4 @@ I'm always open to talking about **software, robotics, distributed systems, tech
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:C77DFF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:DC2626,100:EF4444&height=120&section=footer"/>
