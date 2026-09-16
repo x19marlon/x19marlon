@@ -39,8 +39,8 @@
 
 <td width="45%" align="center">
 
-<img src="https://coolreadme.xyz/api/letterboxd-card?user=x19marlon&title=Agarrando+la+pala&year=2026&director=Marlon&review=Systems+Engineering+student+exploring+algorithms%2C+robotics%2C+distributed+systems+and+software+engineering.&img=https%3A%2F%2Fgithub.com%2Fx19marlon.png" alt="Marlon Card"/>
 
+![YouTube](https://coolreadme.xyz/api/youtube-card?title=Hombre%20guapo%20hace%20commit&channel=GNU&style=video&subscribers=2.1M&views=2.3M%20views&likes=142K&uploaded=3%20days%20ago&duration=12%3A34&progress=35&img=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-mjZeOO9iAw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-mjZeOO9iAw)
 </td>
 
 </tr>
