@@ -40,7 +40,7 @@
 <td width="45%" align="center">
 
 
-![YouTube](https://coolreadme.xyz/api/youtube-card?title=Hombre%20guapo%20hace%20commit&channel=GNU&style=video&subscribers=2.1M&views=2.3M%20views&likes=142K&uploaded=3%20days%20ago&duration=12%3A34&progress=35&img=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-mjZeOO9iAw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-mjZeOO9iAw)
+![YouTube](https://coolreadme.xyz/api/youtube-card?title=Hombre%20guapo%20hace%20commit&channel=ACM%20Javeriana&style=video&subscribers=2.1M&views=2.3M%20views&likes=142K&uploaded=1%20commit%20ago&duration=01%3A51&progress=00&img=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIXhmu1aQSOY&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIXhmu1aQSOY)
 </td>
 
 </tr>
